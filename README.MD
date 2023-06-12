@@ -25,4 +25,5 @@ python downloadYT.py
 -----------------------
 ## Funcionalidades futuras
 - [ ] Baixar somente o áudio 
-- [ ] Interface web clean com flask 
+- [ ] Interface web clean com flask
+- [ ] Subir para Versel
