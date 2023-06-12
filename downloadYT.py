@@ -2,9 +2,9 @@ from pytube import YouTube
 import os
 import time
 
-inicio = time.time()
+inicio = time.time() 
 # Obtém informações do vídeo em um objeto do tipo Youtube
-yt = YouTube("https://youtu.be/72fneIUHXyY")
+yt = YouTube("COLE AQUI O LINK DO VIDEO QUE DESEJA BAIXAR")
 
 # Define a pasta onde os vídeos serão baixados
 pasta_videos = os.getcwd() + os.sep + "videos"
